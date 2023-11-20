@@ -127,3 +127,21 @@ a {
     color: #333;
     font-weight: 600;
 }
+nav{
+    background-color: transparent;
+    overflow: hidden;
+}
+nav a{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding:14px 20px;
+    float:left;
+    font-family:cursive;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Delicious Handrawn', cursive;
+    font-style: italic;
+}
+h1 {
+    
+}
